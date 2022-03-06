@@ -1,0 +1,11 @@
+# vscode
+.vscode
+
+# npm
+node_modules
+
+# build
+dist
+
+# sourcemaps
+*.map
